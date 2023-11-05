@@ -1,3 +1,4 @@
 function test() {
-    log.info("test");
+    log.info("test1");
+    log.info("test2");
 }
